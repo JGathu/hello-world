@@ -1,2 +1,1 @@
-# hello-world
-My first repository
+Python developer passionate about Fintech and Data Science.
